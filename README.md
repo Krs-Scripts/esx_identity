@@ -1,3 +1,4 @@
+# REDESIGN KRS SCRIPTS - karos7804
 
 <img width="1919" height="1079" alt="Screenshot 2026-07-06 163308" src="https://github.com/user-attachments/assets/8460ff6c-5a6c-4e10-bc90-038909759685" />
 <img width="1919" height="1079" alt="Screenshot 2026-07-06 163248" src="https://github.com/user-attachments/assets/66e2f701-8cec-4eef-b776-472446744fcb" />
